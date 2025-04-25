@@ -1,1 +1,1 @@
-# meta-ublock
+# meta-ublock-web
